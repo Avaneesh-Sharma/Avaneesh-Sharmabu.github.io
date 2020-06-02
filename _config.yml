@@ -1,2 +1,3 @@
 Name: Avaneesh Sharma, Data Scientist
 Markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
